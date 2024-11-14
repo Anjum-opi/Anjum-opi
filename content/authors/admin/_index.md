@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Opi
+title: Anjum Opi
 
 # Name pronunciation (optional)
 name_pronunciation: Opi
