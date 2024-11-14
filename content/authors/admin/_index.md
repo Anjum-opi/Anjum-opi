@@ -64,12 +64,12 @@ education:
     institution: Barnamala Adarsha High School & College
     date_start: 2016-01-01
     date_end: 2018-06-31
-    summary: |
+    summary: 
       GPA: 5.00/5.00
       
     
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Director of Cloud 
     company_name: GenCoin
     company_url: ''
     company_logo: ''
